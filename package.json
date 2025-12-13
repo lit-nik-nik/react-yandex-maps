@@ -31,7 +31,7 @@
     "test:coverage": "jest --ci --no-cahce --coverage"
   },
   "peerDependencies": {
-    "react": "^16.x || ^17.x || ^18.x"
+    "react": "^16.x || ^17.x || ^18.x || ^19.x"
   },
   "dependencies": {
     "@types/yandex-maps": "2.1.29"
