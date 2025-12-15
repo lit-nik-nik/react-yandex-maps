@@ -19,13 +19,13 @@
 npm:
 
 ```
-npm install @pbe/react-yandex-maps
+npm install @litnn/react-yandex-maps
 ```
 
 yarn:
 
 ```
-yarn add @pbe/react-yandex-maps
+yarn add @litnn/react-yandex-maps
 ```
 
 ### Getting Started
