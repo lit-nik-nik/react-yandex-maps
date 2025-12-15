@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/@pbe/react-yandex-maps)](https://www.npmjs.com/package/@pbe/react-yandex-maps)
 [![npm bundle size](https://img.shields.io/bundlephobia/minzip/@pbe/react-yandex-maps)](https://bundlephobia.com/package/@pbe/react-yandex-maps)
 
-[Yandex Maps API][ymaps-api] bindings for React
+[Yandex Maps API][ymaps-api] bindings for React v 19.x
 
 [ymaps-api]:
   https://tech.yandex.com/maps/doc/jsapi/2.1/quick-start/index-docpage/
